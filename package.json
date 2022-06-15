@@ -1,0 +1,15 @@
+{
+  "name": "kaffeine",
+  "version": "0.0.1",
+  "description": "A messenger bot on steroids",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Tasfiqul Tapu",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.1.0",
+    "express": "^4.18.1"
+  }
+}
